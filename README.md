@@ -10,8 +10,8 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,21 +22,20 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] A button is added to calculate the tip and total values
-- [ ] A button is added for the user to clear what is entered (i.e. reset)
-- [ ] User can press "return" on the keyboard to close it
+- [x] A button is added to calculate the tip and total values
+- [x] A button is added for the user to clear what is entered (i.e. reset)
+- [x] User can press "return" on the keyboard to close it
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![LazyTip](https://user-images.githubusercontent.com/60202147/128935574-58590475-6b01-4979-9e87-8d89a4236c68.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with QuickTime Player and [ezgif.com](https://ezgif.com/video-to-gif)
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Main challenges faced:
+1. working with and trying to understand a new syntax
+2. working in a new environment with several options, commands, and capabilities
 
 ## License
 
